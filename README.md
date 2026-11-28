@@ -51,9 +51,9 @@ The app uses Cloud Firestore. The adherence percentage is calculated in the app:
 
 ## Team
 
-- **Nusaibah**: Firebase, data functions, History page and adherence percentage, reminders
-- **Favour**: project setup, main screens (Add Drug and Today's Schedule), deployment
+- Ibrahim Nusaibah: Firebase, data functions, History page and adherence percentage, reminders
+- Adumeta Favour: project setup, main screens (Add Drug and Today's Schedule), deployment
 
 ## Status
 
-In development, built for the Hello World DAMSA-DWIG Capstone.
+In development
