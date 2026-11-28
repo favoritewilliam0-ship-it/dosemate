@@ -5,7 +5,7 @@ import {
   addDoc,
   getDocs,
 } from "firebase/firestore";
-import { db } from "./FireBase";
+import { db } from "./firebase";
 
 export default function App() {
   const [name, setName] = useState("");
